@@ -100,15 +100,14 @@ const muhammad = {
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkKabirii&layout=compact&hide_border=true&langs_count=8&bg_color=050d24&title_color=4a9fe0&text_color=c8d8f8&border_radius=10"/>
 </div>
 
----
 
+
+
+<!-- <div align="center">
 ## 🏆 GitHub Trophies
-
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mkKabirii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=6&column=7&row=1"/>
-</div>
+</div> -->
 
----
 
 ## 📈 Contribution Graph
 
@@ -138,19 +137,17 @@ const muhammad = {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
----
 
+<!-- <div align="center">
 ## 🐍 Contribution Snake
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkKabirii/mkKabirii/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkKabirii/mkKabirii/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mkKabirii/mkKabirii/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
-</div>
+</div> -->
 
----
+
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050d24,40:0f2057,60:0f2057,100:050d24&height=130&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20Let%27s%20build%20something%20great&fontSize=16&fontColor=4a7fe8&fontAlignY=65"/>
