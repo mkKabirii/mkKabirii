@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mkKabirii&label=Profile+Views&color=6366F1&style=for-the-badge&labelColor=0A0A0F" alt="profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/mkKabirii?label=Followers&style=for-the-badge&color=6366F1&labelColor=0A0A0F" alt="followers"/>
+<!-- <img src="https://img.shields.io/github/followers/mkKabirii?label=Followers&style=for-the-badge&color=6366F1&labelColor=0A0A0F" alt="followers"/> -->
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-34D399?style=for-the-badge&labelColor=0A0A0F" alt="open to work"/>
 
